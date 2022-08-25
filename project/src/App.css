@@ -46,6 +46,11 @@
   gap: 30px;
 }
 
+#navbar a{
+text-decoration: none;
+color: black;
+}
+
 .nav_logo img{
   height: 40px;
 }
@@ -90,4 +95,44 @@
   font-weight: lighter;
   text-align: center;
   letter-spacing: 1px;
+}
+
+.search_input input{
+  width: 400px;
+  height: 20px;
+  background-color: rgb(229, 226, 226);
+  border: none;
+  padding: 10px;
+}
+
+.right_nav{
+  display: flex;
+  gap: 20px;
+}
+
+.right_nav img{
+  height: 30px;
+}
+
+.nav_bottom p{
+  display: flex;
+  text-align: left;
+  align-items: flex-start;
+  padding: 20px 0;
+}
+
+.nav_button{
+  display: flex;
+  gap: 20px;
+  padding:20px 0px;
+  align-items: center;
+}
+.nav_button button{
+height: 65px;
+border-radius: 3px;
+border-color: rgb(197, 197, 197);
+}
+
+.nav_button button:hover {
+  border-color: orange;
 }
