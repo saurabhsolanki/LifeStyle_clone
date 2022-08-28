@@ -1,0 +1,51 @@
+#upperFooter{
+    display: flex;
+    gap: 50px;
+    margin: auto;
+    padding: 20px;
+    justify-content: space-evenly;
+    justify-items: left;
+}
+#footer_input{
+    display: flex;
+}
+#footer_input button{
+    background-color: black;
+    color: white;
+    padding: 15px 45px 15px 45px;
+}
+#footer_input input{
+    padding: 30px ;
+}
+
+#upper_rightFooter div{
+    display: flex;
+    gap: 30px;
+}
+#upper_rightFooter img{
+    width: 200px;
+    height: 80px;
+}
+
+
+
+/* lower Footer */
+#lowerFooter{
+    display: flex;
+    margin: auto;
+    gap: 50px;
+    text-align: left;
+    justify-content: space-around;
+}
+
+#lowerFooter p{
+    text-align: left;
+    margin-left: -20px;
+    font-size: smaller;
+    margin-bottom: -30px;
+}
+
+#lowerFooter p:hover{
+    color: red;
+    cursor: pointer;
+}
