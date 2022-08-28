@@ -1,0 +1,43 @@
+#cartPage_item{
+    display: flex;
+    gap: 50px;
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+
+
+#cartImage{
+    display: flex;
+    gap: 20px;
+    width: 60%;
+}
+
+#cartDetail{
+    width: 40%;
+    margin-top: -37px;
+}
+
+#cartDetail p{
+margin-bottom: -20px;
+}
+
+#cartDetail ul{
+    padding: 20px;
+    text-align: left;
+    
+}
+#cartDetail li{
+    text-align: left;
+    font-size: smaller;
+    padding-right: 50px;
+}
+
+#cartDetail button{
+    background-color: orange;
+    color: white;
+    width: 100%;
+    padding: 20px 60px ;
+    font-size: large;
+    font-weight: bold;
+}
