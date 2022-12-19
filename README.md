@@ -3,7 +3,7 @@
 #vercel Link:- https://lifestyle-five.vercel.app/
 
 
-# Metneds
+# LifeStyle
 
 LifeStyle (Clone of LifeStyle.com) is one of India's leading Fashion aggregators and most trusted delivery website. Features:  Sign up/Login Page  Home Page  Cart  Booking
 
